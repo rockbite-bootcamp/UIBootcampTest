@@ -56,4 +56,7 @@ e.g. We change the current amount of the material, we need a clean way for the w
     
 ### Additional notes
 
-Assets are not
+Assets are not critical here. The most important part is good use of scene2d layout, clean code, and appropriate data classes.
+Don't worry so much about making the asset side, colours/fonts look identical to the preview. 
+
+However some assets are provided in the core/assets folder for use in this case. 

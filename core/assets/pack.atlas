@@ -1,0 +1,61 @@
+
+pack.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+icon-ui-boosters-arrow
+  rotate: false
+  xy: 170, 106
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+icon-ui-credit
+  rotate: false
+  xy: 103, 61
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+material-algae
+  rotate: false
+  xy: 2, 27
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+white-curve-small
+  rotate: false
+  xy: 137, 41
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+white-half-squircle-r-10-bottom
+  rotate: false
+  xy: 2, 9
+  size: 32, 16
+  split: 12, 12, 4, 10
+  pad: 0, 0, 0, 0
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+white-square
+  rotate: false
+  xy: 2, 2
+  size: 5, 5
+  split: 1, 1, 1, 1
+  pad: 0, 0, 0, 0
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+white-squircle-r-10
+  rotate: false
+  xy: 103, 27
+  size: 32, 32
+  split: 12, 12, 12, 12
+  pad: 0, 0, 0, 0
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
